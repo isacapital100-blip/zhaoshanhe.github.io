@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>山河之网站</title>
+<style>
+body{
+  margin:0;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#000;
+  color:#fff;
+  font-size:48px;
+  font-weight:900;
+  text-align:center;
+  line-height:1.5;
+  padding:40px;
+  box-sizing:border-box;
+  font-family: Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+</style>
+</head>
+<body>
+山河之网站，你你点进来想看什么，照顾好网址好看吗？还看？
+</body>
+</html>
